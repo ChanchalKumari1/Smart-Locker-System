@@ -126,8 +126,6 @@ Behavior:
 MIT License
 
 
-## Author
-DigitalMonk
+## More update or customization
+[DigitalMonk](https://digitalmonk.biz/smart-jukebox-rfid-based-interactive-music-system/)
 
-
-Just ask.
