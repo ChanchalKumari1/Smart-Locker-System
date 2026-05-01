@@ -22,6 +22,8 @@ Only registered faces can unlock the door. Admin access is protected by a PIN.
 ---
 
 ## Hardware Required
+<img width="1800" height="2400" alt="picamera" src="https://github.com/user-attachments/assets/0b994f4a-c0f9-4ec8-addf-8bbb40e11cb1" />
+
 
 * Raspberry Pi (Pi 4 recommended)
 * Raspberry Pi Camera Module
@@ -32,6 +34,8 @@ Only registered faces can unlock the door. Admin access is protected by a PIN.
 ---
 
 ## Software Requirements
+<img width="768" height="1024" alt="Image (9)" src="https://github.com/user-attachments/assets/1ba1f461-be05-49ed-bbb2-6be3e9254ca4" />
+
 
 * Python 3
 * Raspberry Pi OS
