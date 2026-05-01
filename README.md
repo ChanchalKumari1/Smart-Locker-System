@@ -34,7 +34,6 @@ Only registered faces can unlock the door. Admin access is protected by a PIN.
 ---
 
 ## Software Requirements
-<img width="768" height="1024" alt="Image (9)" src="https://github.com/user-attachments/assets/1ba1f461-be05-49ed-bbb2-6be3e9254ca4" />
 
 
 * Python 3
@@ -110,6 +109,8 @@ python3 main.py
 * Select user and delete if needed
 
 ## GPIO Configuration
+<img width="768" height="1024" alt="Image (9)" src="https://github.com/user-attachments/assets/1ba1f461-be05-49ed-bbb2-6be3e9254ca4" />
+
 
 * GPIO 23 → Door Lock Control
 
