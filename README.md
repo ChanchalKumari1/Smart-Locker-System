@@ -131,5 +131,5 @@ MIT License
 
 
 ## More update or customization
-[DigitalMonk](https://digitalmonk.biz/smart-jukebox-rfid-based-interactive-music-system/)
+Hire Raspberry Pi developer for custom IoT solutions: https://digitalmonk.biz/hire-raspberry-pi-developer/
 
