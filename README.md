@@ -4,6 +4,7 @@ This project is a simple smart locker system using face recognition. It runs on 
 
 Only registered faces can unlock the door. Admin access is protected by a PIN.
 
+
 ---
 
 ## Features
